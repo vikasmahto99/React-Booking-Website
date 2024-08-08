@@ -41,9 +41,9 @@ npm install
 4. **Start the development server:**
 npm start
 
-5.**Open your browser and visit:** http://localhost:3000
+ 5.**Open your browser and visit:** http://localhost:3000
 
-**License**
+## License
 This project is open-source and free to use. No license is required.
 
  # Contact
