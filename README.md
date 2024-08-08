@@ -24,3 +24,38 @@ The React Booking App is a web application built with React.js for booking hotel
 - HTML5
 - CSS3
 
+## Installation
+
+Steps to get the project up and running locally:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/vikasmahto99/React-Booking-Website.git
+
+2. **Navigate to the project directory:**
+    cd React-Booking-App
+
+3.**Install dependencies:**
+   npm install.
+
+4 **Start the development server:**
+   npm start
+
+ 5.**Open your browser and visit:** http://localhost:3000
+
+ ## Contact
+
+Feel free to reach out to me:
+
+- **LinkedIn:** [ LinkedIn Profile](https://www.linkedin.com/in/vikas-mahto-a21102228/)
+- **Twitter:** [Twitter Profile](https://x.com/vikasmahto9958)
+
+## License
+
+This project is open-source and free to use. No license is required.
+
+## Acknowledgments
+
+Thank you for visiting my project! I hope you find my work interesting and inspiring.
+
+
