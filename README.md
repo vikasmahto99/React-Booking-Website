@@ -33,13 +33,16 @@ Steps to get the project up and running locally:
    git clone https://github.com/vikasmahto99/React-Booking-Website.git
 
 2. **Navigate to the project directory:**
-cd React-Booking-App
+    ```bash
+    cd React-Booking-App
 
 3.**Install dependencies:**
-npm install
+   ```bash
+   npm install
 
 4. **Start the development server:**
-npm start
+  ```bash
+   npm start
 
  5.**Open your browser and visit:** http://localhost:3000
 
